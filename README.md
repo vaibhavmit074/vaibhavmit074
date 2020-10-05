@@ -49,14 +49,14 @@
 
 <!-- thropy -->
 <h2 align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/trophy_1f3c6.png" width="23px"> Github Trophies <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/trophy_1f3c6.png" width="23px"></h2>  
-<a href="https://JonnyBanana.github.io">
+<a href="https://intense-falls-56527.herokuapp.com/2bf50a0b-dfa8-4eea-960d-f090c3fc2be8">
  
  <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=vaibhavmit074&column=7&theme=onedark"/>
  </p>
 </a>
 
-<!-- Banana Skillz -->
+<!-- Vaibhav Skill -->
 <h2 align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/alien_1f47d.png" width="23px"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/alien_1f47d.png" width="23px"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/alien_1f47d.png" width="23px"> Banana Skillz <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/alien_1f47d.png" width="23px"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/alien_1f47d.png" width="23px"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/alien_1f47d.png" width="23px"> </h2> 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
