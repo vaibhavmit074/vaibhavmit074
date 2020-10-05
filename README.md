@@ -179,7 +179,8 @@
 </BR>
 <!-- Banner -->
 <div align="center">
-<a href="https://golden-farm.biz/?r=1673249" target="_blank" >
+<a href="https://golden-farm.biz/?en=vaibhavpan
+" target="_blank" >
 <img src="https://golden-farm.biz/images/promo/en/728x90.gif"
 alt="Profit every 10 minutes!"></a>
 </div>
