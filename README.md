@@ -193,5 +193,5 @@ alt="Profit every 10 minutes!"></a>
 	
 </BR>
 
-<img src="https://komarev.com/ghpvc/?username=JonnyBanana&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=vaibhavmit074&&style=flat-square" align="center" />
 </div>  
