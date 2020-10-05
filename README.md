@@ -49,7 +49,7 @@
 
 <!-- thropy -->
 <h2 align="center"><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/trophy_1f3c6.png" width="23px"> Github Trophies <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/trophy_1f3c6.png" width="23px"></h2>  
-<a href="https://intense-falls-56527.herokuapp.com/2bf50a0b-dfa8-4eea-960d-f090c3fc2be8">
+<a href=""https://github.com/vaibhavmit074>
  
  <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=vaibhavmit074&column=7&theme=onedark"/>
