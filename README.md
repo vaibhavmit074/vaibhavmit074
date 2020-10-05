@@ -137,9 +137,9 @@
 <img align="left" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/88a969c3e830bbcbff939ea870058d91.gif">
 
 <h3> Contacts:</h3>
-<h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> <a href="mailto:howtohackitalia@gmail.com">Gmail</a>: howtohackitalia@gmail.com</h4> 
+<h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> <a href="mailto:vaibhavpanwar991@gmail.com">Gmail</a>: howtohackitalia@gmail.com</h4> 
 <h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> Gmail PGP fingerprint: FA6594C6C31FAAE54D9BD87EAF05B231635B9F59</h4> 
-<h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> <a href="mailto:jonnybanana@protonmail.com">Proton Mail</a>: jonnybanana@protonmail.com</h4> 
+<h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> <a href="mailto:anshpanwar0410@gmail.com">Proton Mail</a>: jonnybanana@protonmail.com</h4> 
 <h4><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/60/twitter/259/robot_1f916.png" width="20px"> Proton Mail PGP fingerprint:  8c8f7dfc02d993b2418786e567040a7d27ccdff7</h4> 
 
 </BR>
@@ -150,7 +150,7 @@
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/3DLAmCsuTe3bV13dhrdWmiiTzq9WMPZDTkYuSGyZVu3GHrVTd2BoY4vy6KfBYGoMWX5Znx41J2ooechEiytNSdz6XzEsgbNbZ1bzk2wWdKhpeGdRmswGu87qNkdkKjdTPYBJbxrm8qYShbz29hFxRZ9DhhjxmqX.gif">
 
- -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="25px"> bit.co.in/jonnybanana</h4>
+ -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/Bitcoin-icon.png" width="25px"> bit.co.in/jvaibhavpanwar</h4>
  
  -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/1-W_pIfGx1Yw_LMfUsOesr4g.png" width="25px"> blockchain-master.crypto</h4>
  
@@ -158,7 +158,7 @@
  
  -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/darkcoin.png" width="25px"> 7cpS6zvX8pe5G9ANupbrcRQWZnRT47wVgP</h4>
  
- -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/pp.png" width="25px"> paypal.me/JonnyBananarama</h4>
+ -  <h4><img src="https://raw.githubusercontent.com/JonnyBanana/JonnyBanana/master/IMG/pp.png" width="25px"> paypal.me/vaibhavpanwar991</h4>
  
 </BR></BR></BR>
 
