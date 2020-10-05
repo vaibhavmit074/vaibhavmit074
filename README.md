@@ -120,15 +120,15 @@
 </BR>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavmit074&repo=tiktok-clone&theme=gotham)](https://github.com/vaibhavmit074/tiktok-clone)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Rubber_Ducky_Gather_Network_Info&theme=gotham)](https://github.com/JonnyBanana/Rubber_Ducky_Gather_Network_Info)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=BQOD_tHE_bLUE_qUACK_oF_dEATH&theme=gotham)](https://github.com/JonnyBanana/BQOD_tHE_bLUE_qUACK_oF_dEATH)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Wifi-Pineapple-IP-Configurator&theme=gotham)](https://github.com/JonnyBanana/Wifi-Pineapple-IP-Configurator)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=safari-ie-reaper.github.io&theme=gotham)](https://github.com/JonnyBanana/safari-ie-reaper.github.io)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Netflix_EVIL_PORTAL&theme=gotham)](https://github.com/JonnyBanana/Netflix_EVIL_PORTAL)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=NEOPIXEL_WS2812_5050_SKETCHS&theme=gotham)](https://github.com/JonnyBanana/NEOPIXEL_WS2812_5050_SKETCHS)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=MAC_Donalds&theme=gotham)](https://github.com/JonnyBanana/MAC_Donalds)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Codebug_BTC_RealTime_Price&theme=gotham)](https://github.com/JonnyBanana/Codebug_BTC_RealTime_Price)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=SASS-PixelArt-Pack&theme=gotham)](https://github.com/JonnyBanana/SASS-PixelArt-Pack)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavmit074&repo=snapchat-clone&theme=gotham)](https://github.com/vaibhavmit074/snapchat-clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavmit074&repo=instagram-clone&theme=gotham)](https://github.com/vaibhavmit074/instagram-clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavmit074&repo=twitter-clone&theme=gotham)](https://github.com/vaibhavmit074/twitter-clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavmit074&repo=amazon-clone&theme=gotham)](https://github.com/vaibhavmit074/amazon-clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavmit074&repo=spotify-clone&theme=gotham)](https://github.com/vaibhavmit074/spotify-clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavmit074&repo=airbnb-clone&theme=gotham)](https://github.com/vaibhavmit074/airbnb-clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavmit074&repo=mitvideo-like-zoom-app&theme=gotham)](https://github.com/vaibhavmit074/mitvideo-like-zoom-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavmit074&repo=web-api-auth-&theme=gotham)](https://github.com/vaibhavmit074/web-api-auth-)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhavmit074&repo=Todo-app-react.js&theme=gotham)](https://github.com/vaibhavmit074/Todo-app-react.js)
 </div>
 
 </BR></BR>
