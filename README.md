@@ -29,9 +29,9 @@
 </BR>
 
 <div>
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=JonnyBanana&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=vaibhavmit074&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 
-<img height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnyBanana&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
+<img height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavmit074&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 </div>
 
 <!-- Space Div -->
