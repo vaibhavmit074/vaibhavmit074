@@ -119,7 +119,7 @@
 <h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1561763719/5906/this-is-fine-fire.gif?1561763719" width="30px"> Some Repositories <img src="https://emojis.slackmojis.com/emojis/images/1561763719/5906/this-is-fine-fire.gif?1561763719" width="30px"></h2>  
 </BR>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=DUCKY_REAPER&theme=gotham)](https://github.com/JonnyBanana/DUCKY_REAPER)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=tiktok-clone&theme=gotham)](https://github.com/vaibhavmit074/tiktok-clone)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Rubber_Ducky_Gather_Network_Info&theme=gotham)](https://github.com/JonnyBanana/Rubber_Ducky_Gather_Network_Info)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=BQOD_tHE_bLUE_qUACK_oF_dEATH&theme=gotham)](https://github.com/JonnyBanana/BQOD_tHE_bLUE_qUACK_oF_dEATH)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JonnyBanana&repo=Wifi-Pineapple-IP-Configurator&theme=gotham)](https://github.com/JonnyBanana/Wifi-Pineapple-IP-Configurator)
