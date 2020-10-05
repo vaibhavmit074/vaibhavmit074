@@ -164,16 +164,16 @@
 
 <!-- Final Contacts e Social -->
 <div align="center">
-<a href="https://www.youtube.com/channel/UCGpltr2aMuNZqfBN6y51kCw" target="_blank">
+<a href="#" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a> 
-<a href="https://github.com/JonnyBanana" target="_blank">
+<a href="https://github.com/vaibhavmit074/" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/jonnybanana84" target="_blank">
+<a href="https://mobile.twitter.com/Vaibhav91760292" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a> 
-<a href="mailto:howtohackitalia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>	
+<a href="mailto:vaibhavpanwar991@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>	
 </div> 
 
 </BR>
